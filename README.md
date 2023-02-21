@@ -168,7 +168,6 @@ The US Music review category of Amazon Vines is an inappropriate dataset for ana
 
 Alternatively, an additional step could be to review the mean rating of Amazon Vine reviews with greater than 20 vote counts. This would remove the greater than 50% helpful reviews filter and add 45,000 reviews back to the analysis.  
 
-```
+![This is an image](https://github.com/aaron-ardell/Amazon_Vine_Analysis/blob/main/new_vine_df.png)
 
-```
-
+Unfortunately, it looks like even that step will fail to produce signifigant Paid Vines to provide a responsible comparison for bias. Picking a different category or combining these results with the results of another category would be the most appropriate path forward.
